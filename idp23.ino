@@ -6,7 +6,7 @@
 
 // WiFi credentials
 char ssid[] = "lahari407";
-char pass[] = "Yamini@2008";
+char pass[] = "***********";
 
 // Sensor Pins
 #define S1_PIN 34
